@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopWhile", "LoopWhile\Loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopDo", "LoopDo\LoopDo.csproj", "{2924D80D-6C26-47F0-8A59-7C9014D1945F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задача 4.1", "Задача 4.1\Задача 4.1.csproj", "{4B023367-763F-42B3-8634-35E91D4D3E6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2924D80D-6C26-47F0-8A59-7C9014D1945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2924D80D-6C26-47F0-8A59-7C9014D1945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2924D80D-6C26-47F0-8A59-7C9014D1945F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B023367-763F-42B3-8634-35E91D4D3E6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B023367-763F-42B3-8634-35E91D4D3E6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B023367-763F-42B3-8634-35E91D4D3E6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B023367-763F-42B3-8634-35E91D4D3E6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
